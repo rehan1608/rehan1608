@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rehan
-- 👀 Interested in AI, Robotics and sonmehow in Ethical Hacking
+- 👀 Interested in AI/ML, FrontEnd Developer 
 - 🌱 Currently persuing B.Tech in ECE
 - 📫 Reach me out at raorehan79@gmail.com
 
